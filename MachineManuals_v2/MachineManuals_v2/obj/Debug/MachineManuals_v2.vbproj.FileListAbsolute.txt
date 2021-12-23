@@ -1,0 +1,13 @@
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\bin\Debug\MachineManuals_v2.exe.config
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\bin\Debug\MachineManuals_v2.exe
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\bin\Debug\MachineManuals_v2.pdb
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\bin\Debug\MachineManuals_v2.xml
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\obj\Debug\MachineManuals_v2.vbproj.AssemblyReference.cache
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\obj\Debug\MachineManuals_v2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\obj\Debug\MachineManuals_v2.Form1.resources
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\obj\Debug\MachineManuals_v2.Resources.resources
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\obj\Debug\MachineManuals_v2.vbproj.GenerateResource.cache
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\obj\Debug\MachineManuals_v2.vbproj.CoreCompileInputs.cache
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\obj\Debug\MachineManuals_v2.exe
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\obj\Debug\MachineManuals_v2.xml
+C:\Users\sjouke.vanalthuis\source\repos\MachineManuals_v2\MachineManuals_v2\obj\Debug\MachineManuals_v2.pdb
